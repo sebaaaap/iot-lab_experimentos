@@ -49,7 +49,7 @@
 
 ---
 
-# 🔍 Algoritmo para visualizar topologías
+# 🔍 Algoritmo para visualizar topologías [analisis_topologia.ipynb]
 
 ## 🧩 Primer bloque de código
 
@@ -119,4 +119,4 @@
 
 ---
 
-> 💡 Para más detalles sobre cada bloque de código, revisar el notebook o documentación interna.
+> 💡 Para más detalles sobre cada bloque de código, revisar el notebook.
